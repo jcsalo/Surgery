@@ -22,8 +22,11 @@ Supine on blue foam pad without draw sheet.
 Shoulders are shifted to the right.
 
 Lateral positioners left and right thighs just anterior to greater trochanter.
+<<<<<<< HEAD
 
 Left chest lateral positioner oriented vertically.
+=======
+>>>>>>> b4b7910223838cbb2ca7938e9208f89f9bee723d
 
 
 ```{r, out.width = "200px", fig.align='right', echo=FALSE,out.width='.49\\linewidth'}
