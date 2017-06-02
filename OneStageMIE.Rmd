@@ -25,6 +25,8 @@ Lateral positioners left and right thighs just anterior to greater trochanter.
 
 Left chest lateral positioner oriented vertically.
 
+Right chest lateral positioner placed oriented vertically from spine to behind scapula.
+
 
 
 ```{r, out.width = "200px", fig.align='right', echo=FALSE,out.width='.49\\linewidth'}
