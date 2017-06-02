@@ -1,0 +1,80 @@
+---
+title: "RobotTAC"
+author: "JC Salo"
+date: "May 24, 2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Anesthesia 
+GETA. Arterial line. 
+
+Position:  Blue foam pad, shoulders taped, Lithotomy in Yellow Fins, Foley, arms padded and tucked with ION arm supports.
+
+Rectum irrigated with dilute betadine solution.  Rectal exam revealed a anterior tumor at 3 cm above the top of the anal ring.
+
+Time Out: WHO Time-Out according to CHS guidelines.
+
+Laparoscopy: The abdomen was entered via periumbilical hand port incision.  The patient had prior laparotomy for a small bowel obstruction during her preoperative radiation therapy.
+
+An 8 mm robotic port was placed in the right lower quadrant and a 5 mm assisting port in the right mid quadrant.
+
+An extensive laparoscopic lysis of adhesions was now performed.  There were extensive adhesions of the small bowel to the anterior abdominal wall due to her prior surgery.  Due to these adhesions dissection required entry into the small bowel.  Extensive laparoscopic lysis adhesions taking over 1 hour was now performed.
+
+With some effort it was possible to bring the small intestine into the HandPort and further enteroclysis was now performed with scissors through a keyhole approach through the HandPort.
+
+The site of small bowel resection was identified 20 cm proximal to the ileocecal valve.  A small bowel resection was now performed in the area of bowel which was adherent to the anterior bowel wall.  This is performed with 2 firings of a 75 mm 3.5 mm blue load GIA stapler and the defect closed with a 100 mm GIA blue load stapler.  The suture line was reinforced with 3-0 silk sutures placed in Lembert fashion.  The mesentery was brought over the staple line to prevent adhesions.
+
+Laparoscopic dissection of the inferior mesenteric artery was now performed.  The IMA was dissected circumferentially with the LigaSure device and divided with a 30 millimeter 2.0 mm gray load Endo GIA stapler.  The mesentery was now divided in preparation for a end colostomy.  A medial to lateral dissection was now performed into the mesorectal plane leaving the left ureter intact on the pelvic sidewall.
+
+The rectosigmoid was now divided with a Endo GIA blue load 5 mm stapler.  The rectosigmoid mesentery was now divided with the LigaSure device.
+
+The left ureter was positively identified on the left pelvic sidewall.
+
+The right pararectal sulcus was incised along the mesentery medial to the course of the right ureter, which was not visualized. There were no adhesions along the course of the right ureter.
+
+The proximal colon and small bowel were now packed with 2 laparotomy tapes with laparotomy rings.  Robotic ports were now positioned for docking of the da Vinci robot.
+
+Camera:  Via GelPort with extended 8mm robotic trocar
+
+* 2: 8mm port LLQ at future colostomy site.
+* 3A: 8mm auxillary port RUQ
+* 3B: 8mm port LLQ lateral.  
+* 1: 8mm port RLQ inferior to spinoumbilical line. 
+
+Assisting 5mm port RUQ at ileostomy site.
+
+Robotic Pelvic Dissection : The DaVinci robot was docked with a Graptor in #3B, bipolar fenestrated grasper in #2, and monopolar scissors in #1.
+
+The rectum was now dissected circumferentially. The dissection was brought down to the levators posteriorly. 
+
+Perineal Phase:  The anus was incised in circumferential fashion.  The rectovaginal septum was elevated with a small Richardson retractor on a radiolucent Thompson fixed retractor.  The rectum was dissected circumferentially and particular attention turned to dissection within the rectovaginal septum temperature a clear margin in this area.  The specimen was retrieved through the anus and sent to pathology.  Hemostasis was secured with 3-0 silk and bipolar cautery.
+
+The levator muscles were reapproximated and the subcutaneous tissue closed with 2-0 Vicryl in the skin closed with 2-0 Vicryl placed in vertical mattress fashion.
+
+Attention was now returned to the abdomen the left colon and splenic flexure were mobilized laparoscopically to assure adequate length for the colostomy.
+
+Hemostasis was secured with Arista within the pelvis. 
+
+Drains: Two 19 French round Blake drains were placed within the pelvis.
+
+Colostomy: The site for the colostomy was enlarged and the colon brought through a fenestration in the rectus abdominis muscle.
+
+The sponge, needle, and instrument counts were reported correct ?2.  The drains were secured with 2-0 nylon and the HandPort incision closed with running looped #1 PDS suture. The skin was closed loosely with staples.
+
+The colostomy was matured with 3-0 Vicryl and a colostomy appliance applied.  The hand port incision was dressed with an aqua cell dressing.
+
+
+  
+
+
+
+```{r cars}
+summary(cars)
+```
+

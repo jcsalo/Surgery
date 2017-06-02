@@ -1,0 +1,118 @@
+---
+title: "Robot Gastrectomy"
+author: "JCSalo"
+date: "May 19, 2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Anesthesia: General anesthesia with single-lumen ET tube. 
+
+Antibiotics: [Invanz 1 gram] administered IV prior to incision.
+
+Position:  Supine with left arm abducted on arm board and right arm tucked. Reverse trendelenburg position.  Table rotated to allow for docking of robot.
+
+Prep:  Foley catheter. Hair cleared from operative field with electric clippers.  Skin prep with [Chloroprep followed by 3 minute drying time]. Sterile drape.
+
+Time Out: A World Health Organization Surgical Time-Out was performed in accordance with CHS guidelines.m[
+
+Initial Endoscopy: ][  ][Injection of indocyanine green ][suspended in albumin][ was performed around the tumor.]
+
+Place NG tube
+
+Place Dobhoff tube
+
+Mark proximal aspect of tumor with Resolution Clip x2.  Leave last resolution clip attached (do not eject).  Withdraw scope to esophagus.
+
+Abdominal Access: Abdominal access with GelPort just cephelad to umbilicus (will be used for robotic camera)
+
+Ports: 
+
+Extended 8mm port through Gel Port
+
+8mm port mid-LUQ
+
+8/13mm stapler port lateral LUQ
+
+8mm port mid-RUQ
+
+12mm assisting port R mid-quadrant medial to 8mm mid-RUQ robotic port
+
+5mm port lateral RUQ for Nathanson liver retractor.
+
+Suspend falciform with 0 Silk on Keith needle.
+
+Divide gastrocolic omentum to get access to lesser sac
+
+
+Fenestrate transverse mesocolon to left of MCA
+
+
+Mark jejunum at 20,35,60cm with blue marker
+
+stay sutures from 20-60cm at inferior aspect of Braun
+
+Directional suture at 35cm (long) (?pexy suture to posterior stomach)
+
+
+
+
+Robot: DaVinci [Xi] robot docked. [with Graptor in Arm 3 and fenestrated bipolar in Arm 2 and monopolar scissors in Arm 1].
+
+Gastric Mobilization: Greater curvature mobilized with bipolar and monopolar cautery. Gastrocolic omentum incised. 
+
+Distal Dissection:  Right gastroepiploic artery and vein dissected free and infrapyloric nodes (Station 6) taken with the specimen. [Right gastroepiploic artery and vein cliped with Weck clips]. Right gastric artery nodes (Station5) taken with specimen. [Right gastric artery clipped with Weck clips]
+
+Central Node Dissection:  Left gastric artery nodes (Station 7) nodes harvested.  [Common hepatic (Station 8) nodes harvested.][ Hepatoduodenal ligament nodes along the left side (Station 12) harvested.][ Celiac trunk (Station 9) nodes harvested.] [Proximal splenic artery nodes harvested (Station 11).][ Left gastric artery divided at origin with Weck clips][ Main trunk of left gastric artery left intact after dissecting nodes.][ Left gastric artery preserved to supply a replaced left gastric artery.][Ascending branch of left gastric artery preserved.][-- Comment on clinical node involvement--]
+
+Distal Resection: [Duodenum transected with linear stapler 3.5mm Blue load ][using robotic stapler.][using endoGIA.]
+
+Proximal Resection: [Proximal resection ][ using robotic stapler4.8mm Green load.][ using endoGIA Medium-Thick load.] [Specimen placed in a bag and retrieved through the umbilical port.][
+
+Specimen Retrieval: [ Robot undocked and umbilical port enlarged to extract specimen.][ Extraction site closed with interrupted 0 Vicryl suture.][
+
+Frozen Section:] []
+ 
+Reconstruction: [Retrocolic anastomosis with jejunum brought through fenestration in the transverse mesocolon.] [Bilroth II anastomosis constructed with a robotic 3.5mm Blue load stapler. Defect closed with a 6"6" V-Loc CV23 suture (CLOVL0804).]  [Robotic sutured anastomosis with  6" V-Loc CV23 suture (CLOVL0804) ] [Circular stapled anastomosis with 25mm OrVil and DST XL stapler introduced into the Roux-en-Y limb.  Defect closed with 3.5mm linear stapler.] [ 
+
+Leak test with bubbling using EGD scope showed no evidence of leak.][Leak test with methylene blue showed no evidence of leak.][
+
+Braun enteroenterostomy constructed with a 3.5mm linear stapler and the defect closed with a 6" V-Loc CV23 suture (CLOVL0804).][
+
+Roux-en-Y enteroenterostomy constructed with a 3.5mm linear stapler and the defect closed with a 6" V-Loc CV23 suture (CLOVL0804).][
+
+Nasogastric tube was placed [by Anesthesia.][with the assistance of and EGD scope.]
+
+Drains: []
+
+Closure: [12mm assisting port closed with 0 Vicryl.][ 13mm stapler port closed with 0 Vicryl.]  Abdomen desufflated and incisions closed [with 4-0 Monocryl][ with staples].
+
+Specimens:  []
+
+Complications: [ None ]
+
+Contamination: [Clean-Contaminated, due to entry into the GI tract (stomach).]
+
+Estimated Blood Loss (EBL): [|--EBL--|] [
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
