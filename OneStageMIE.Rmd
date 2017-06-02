@@ -1,0 +1,45 @@
+---
+title: "Esophagectomy One Stage MIE"
+output:
+  pdf_document: default
+  html_document: default
+date: "May 10, 2017"
+---
+
+```{r setup, include=FALSE}
+library(htmltools)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Indications
+
+One-stage esophagectomy is the most common approach to esophagectomy.  The pateint is positioned in 'corkscrew' position to allow simultaneous access to the abdomen and chest by prepping both abdomen and chest.
+
+## Position
+
+Supine on blue foam pad without draw sheet.
+
+Shoulders are shifted to the 
+
+to the
+
+t0o the
+```{r, out.width = "200px", fig.align='right', echo=FALSE,out.width='.49\\linewidth'}
+# Right justified in pdf top/bottom
+## knitted to html this is stacked right justified
+par(mfrow=c(2,2),las=1)
+knitr::include_graphics("images/IMG_1927.JPG")
+knitr::include_graphics("images/IMG_1927.JPG")
+```
+
+right 
+
+
+
+```{r fig.show='hold',out.width='.49\\linewidth', out.width = "200px", echo=FALSE }
+## This works side-by-side in pdf
+## Not shows in html ?due to fig.show='hold'?
+# Full-size in html
+knitr::include_graphics("images/IMG_1927.JPG")
+knitr::include_graphics("images/IMG_1927.JPG")
+```
